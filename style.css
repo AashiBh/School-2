@@ -1,0 +1,37 @@
+.navbar-inverse {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+marquee{
+    background-color: aqua;
+}
+#LUNCH{
+    width: 40%;
+}
+#Library{
+    width: 40%;
+}
+#WoahLecture{
+background-color: black;
+font-family: 'Oswald', sans-serif;
+    color: azure;
+    font-size: 20px;
+}
+.modal-content{
+    margin-top: 100px;
+    width: 1000px;
+    margin-left: 400px;
+    }
+.IMG_MODAK{
+display:inline-block;
+    width: 20%;
+}
+.P_MODAL{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+modal-body{
+    text-align: center;
